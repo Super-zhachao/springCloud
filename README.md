@@ -88,6 +88,16 @@ https://www.fangzhipeng.com/spring-cloud.html （方志朋的springCloud专栏�
 
 - 2.2	如何使用zuul
 
+>配置中心
 
+>>1、   为什么需要配置中心
+
+>>2、   分布式配置中心使用
+
+>>3、    配置客户端
+
+>>4、   配置中心天剑安全验证
+
+>>5、   高可用的配置中心使用
  
 
